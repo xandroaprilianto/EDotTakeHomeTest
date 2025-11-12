@@ -1,0 +1,20 @@
+⚠️ Gagal ambil input value: ('xpath', "//span[normalize-space(text())='Alamat Perusahaan' or normalize-space(text())='Company Address']/following-sibling::div//input") - Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space(text())='Alamat Perusahaan' or normalize-space(text())='Company Address']/following-sibling::div//input"}
+  (Session info: chrome=142.0.7444.135); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+0   chromedriver                        0x0000000101057aa4 cxxbridge1$str$ptr + 2943380
+1   chromedriver                        0x000000010104f760 cxxbridge1$str$ptr + 2909776
+2   chromedriver                        0x0000000100b662bc _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74028
+3   chromedriver                        0x0000000100bad8ac _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 366364
+4   chromedriver                        0x0000000100beed78 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 633832
+5   chromedriver                        0x0000000100ba1f10 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 318848
+6   chromedriver                        0x0000000101019b98 cxxbridge1$str$ptr + 2689672
+7   chromedriver                        0x000000010101d3ac cxxbridge1$str$ptr + 2704028
+8   chromedriver                        0x0000000100ffaa08 cxxbridge1$str$ptr + 2562296
+9   chromedriver                        0x000000010101dc84 cxxbridge1$str$ptr + 2706292
+10  chromedriver                        0x0000000100fec304 cxxbridge1$str$ptr + 2503156
+11  chromedriver                        0x000000010103dd58 cxxbridge1$str$ptr + 2837576
+12  chromedriver                        0x000000010103dedc cxxbridge1$str$ptr + 2837964
+13  chromedriver                        0x000000010104f3b0 cxxbridge1$str$ptr + 2908832
+14  libsystem_pthread.dylib             0x000000019eb3ac0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019eb35b80 thread_start + 8
+

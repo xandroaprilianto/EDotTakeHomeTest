@@ -1,0 +1,8 @@
+pytest
+selenium
+webdriver-manager
+appium-python-client
+allure-pytest
+pytest-xdist
+pytest-html
+python-dotenv

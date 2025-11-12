@@ -1,0 +1,10 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "emulator-5554",
+  "appPackage": "id.edot.ework",
+  "appActivity": "id.edot.onboarding.ui.splash.SplashScreenActivity",
+  "appWaitActivity": "*",
+  "newCommandTimeout": 300,
+  "autoGrantPermissions": true
+}

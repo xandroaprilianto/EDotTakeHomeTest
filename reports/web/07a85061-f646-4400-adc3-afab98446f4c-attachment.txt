@@ -1,0 +1,8 @@
+Selecting province: DI YOGYAKARTA
+Selecting city: KAB BANTUL
+Selecting district: BANGUNTAPAN
+Selecting sub_district: BATURETNO
+Selecting state: Perak
+Selecting city: Batu Gajah
+Selecting location: Peti Surat
+Selecting postal_code: 31007
